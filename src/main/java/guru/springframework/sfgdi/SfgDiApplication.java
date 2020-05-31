@@ -9,5 +9,4 @@ public class SfgDiApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(SfgDiApplication.class, args);
 	}
-
 }
